@@ -1,0 +1,35 @@
+plugins {
+    id 'java'
+    id "org.sonarqube" version "3.3"
+}
+
+group 'com.mathiric'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+sonarqube {
+    properties {
+        //property "sonar.projectKey", "richard-mathis-sonarsource_myproduct"
+        //property "sonar.organization", "richard-mathis-sonarsource"
+        //property "sonar.host.url", "https://sonarcloud.io"
+
+        property "sonar.projectKey", "myproductd"
+        property "sonar.name", "myproductd"
+        property "sonar.organization", "richard-mathis-sonarsource"
+        property "sonar.host.url", "http://localhost:9000"
+        property "sonar.login", "82cb6305806b2fa2ecb10ec8199f4319b5298d8c"
+    }
+}
+

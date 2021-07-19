@@ -1,0 +1,12 @@
+com/mathiric/myproductd/Car.java
+ com.mathiric.myproductd.Car
+com/mathiric/myproductd/Rspec1656.java
+ com.mathiric.myproductd.Rspec1656
+com/mathiric/myproductd/Rspec1128.java
+ com.mathiric.myproductd.Rspec1128
+com/mathiric/myproductd/MyProduct.java
+ com.mathiric.myproductd.MyProduct
+com/mathiric/common/Color.java
+ com.mathiric.common.Color
+com/mathiric/myproductd/Person.java
+ com.mathiric.myproductd.Person
