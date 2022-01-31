@@ -1,5 +1,7 @@
 package com.mathiric.myproductd;
 
+import com.mathiric.common.Person;
+
 import java.util.ArrayList;
 
 public class MyProduct {

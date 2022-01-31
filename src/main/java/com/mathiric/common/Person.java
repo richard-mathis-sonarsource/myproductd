@@ -1,10 +1,11 @@
-package com.mathiric.myproductd;
+package com.mathiric.common;
 
 //public record Person(String name, int age) {}
 
-final class Person { // Non compliant
+public final class Person { // Non compliant
     private final String name;
     private final int age;
+    private Address address;
 
     public Person(String name, int age) {
         this.name = name;

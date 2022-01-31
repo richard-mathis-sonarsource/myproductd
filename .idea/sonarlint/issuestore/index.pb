@@ -1,18 +1,28 @@
 
 \
 ,src/main/java/com/mathiric/common/Color.java,4\b\4bb45f44873ffbad1c3c6644a0027f3ce66de293
+\
+,src/main/java/com/mathiric/common/Shape.java,e\5\e541b2fe8d6bec5de7bb25e570c3eb05b23d40cd
+]
+-src/main/java/com/mathiric/common/Circle.java,a\b\ab5bddc35043a68e9913869e205b1be1e6781579
+]
+-src/main/java/com/mathiric/common/Square.java,a\f\afb1316eca761bdaa3c0d63eec9f8057c4e2677a
+`
+0src/main/java/com/mathiric/common/Rectangle.java,f\6\f67657b945f18ada1f88b9349417edf129050ffb
 b
 2src/main/java/com/mathiric/common/MyException.java,5\d\5d457d70306e43f3edc84dec775e08f8e94234fb
 b
 2src/main/java/com/mathiric/common/UserSession.java,a\c\accb859f25ec12dd5d001219582d73ee9dacf661
 i
 9src/main/java/com/mathiric/common/MyRuntimeException.java,9\4\94e099fa7412d99b8053381636799eaefaf08104
-^
-.src/main/java/com/mathiric/myproductd/Car.java,9\b\9b8387238ad22067267eafd7d841daf940065e93
-a
-1src/main/java/com/mathiric/myproductd/Person.java,5\1\5160eaf3441ac89ca412e3b5d385bf6b6586d5c7
+c
+3src/main/java/com/mathiric/myproductd/Rspec131.java,b\2\b26ecd691524c5186487881bd44d151d6345675b
 d
-4src/main/java/com/mathiric/myproductd/MyProduct.java,a\5\a55ba82d909e384fc7ad67d087459f96df9e6131
+4src/main/java/com/mathiric/myproductd/Rspec1068.java,c\4\c42e0717c8118e983b1bc4b94f40a00fcd1397b9
+d
+4src/main/java/com/mathiric/myproductd/Rspec1107.java,2\9\292b5455bf6b6a8dae21a8ed6f07c51dcc1d5ed4
+d
+4src/main/java/com/mathiric/myproductd/Rspec1116.java,e\8\e84cc26cf33e4749dd1e1056f07e854158251584
 d
 4src/main/java/com/mathiric/myproductd/Rspec1123.java,6\7\67e84ea5d8b6ee9aeee3883d81681d6036344fa3
 d
@@ -21,6 +31,8 @@ d
 4src/main/java/com/mathiric/myproductd/Rspec1125.java,2\9\29df976feab4ab1447c6d9e989751985d5b6a74e
 d
 4src/main/java/com/mathiric/myproductd/Rspec1128.java,2\7\275d9524df81e646fa335347dc76ad968ce5e561
+d
+4src/main/java/com/mathiric/myproductd/Rspec1130.java,3\c\3c4760696acdb25f68b9cba97c3ae18496e5cd14
 d
 4src/main/java/com/mathiric/myproductd/Rspec1144.java,1\f\1fb6cf455bd2f90605cabe51ca33aa79fe7d534e
 d
@@ -37,6 +49,8 @@ d
 4src/main/java/com/mathiric/myproductd/Rspec1195.java,7\9\798c62588debe076ae16275c5de3abc7382571f4
 d
 4src/main/java/com/mathiric/myproductd/Rspec1197.java,b\d\bddb3aa6eebe462652ec03c1780624eea79ab86f
+d
+4src/main/java/com/mathiric/myproductd/Rspec1319.java,1\0\101960d2dd2aa096ca4616e49b91bc98f8b5d9b6
 d
 4src/main/java/com/mathiric/myproductd/Rspec1481.java,7\9\79b2a47e4ca52ad2f4754ed4f748c913835c274c
 d
@@ -97,13 +111,9 @@ P
  src/test/java/Rspec5786Test.java,d\e\de3ae99df1401be4e10810a87a3eb62eb395bab5
 P
  src/test/java/Rspec5838Test.java,f\8\f863d47b93cedfec44f01aca9ea8cf6059d36b1b
-X
-(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 7
 gradlew,5\b\5bbfa66edb4db3c7c33c5181f43510990d3307f9
 ;
 gradlew.bat,2\a\2a45a911a8f1836b0b6c5b758962572012d8f8c3
-<
-build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
 ?
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
